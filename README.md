@@ -9,3 +9,5 @@ We evaluated ADP on seven complex traits in South Asian, East Asian and Ashkenaz
 
 These results highlight ADP as a scalable and practical strategy to reduce disparities in genomic risk prediction and advance the equitable application of PRSs in diverse populations.
 
+A preprint version will be available soon.
+
